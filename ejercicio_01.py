@@ -4,17 +4,17 @@ def suma(a, b):
 def resta(a, b):
   print(a - b)
 
-def multiplicación(a, b):
+def multiplicacion(a, b):
   print(a * b)
 
-def división(a, b):
+def division(a, b):
   print(a / b)
   
-def módulo(a, b):
+def modulo(a, b):
   print(a % b)
   
 def potencia(a, b):
   print(a ** b)
   
-def división_entera(a, b):
+def division_entera(a, b):
   print(a // b)
